@@ -1,0 +1,23 @@
+# ninja log v5
+0	146	1702396895174809533	StaticGLEW_autogen/timestamp	cb9e797fbea29d21
+0	146	1702396895174809533	StaticGLEW_autogen/mocs_compilation.cpp	cb9e797fbea29d21
+0	146	1702396895174809533	/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/StaticGLEW_autogen/timestamp	cb9e797fbea29d21
+0	146	1702396895174809533	/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/StaticGLEW_autogen/mocs_compilation.cpp	cb9e797fbea29d21
+146	236	1702396895276751082	CMakeFiles/StaticGLEW.dir/StaticGLEW_autogen/mocs_compilation.cpp.o	151285324028e34c
+146	55323	1702396950345007756	CMakeFiles/StaticGLEW.dir/glew/src/glew.c.o	8fbc8ad976862f4d
+55324	55519	1702396950562237000	libStaticGLEW.a	d06b44b77c15b629
+55519	56647	1702396951670835295	Minecraft_autogen/timestamp	72ab3da3a100c367
+55519	56647	1702396951670835295	Minecraft_autogen/mocs_compilation.cpp	72ab3da3a100c367
+55519	56647	1702396951670835295	/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/Minecraft_autogen/timestamp	72ab3da3a100c367
+55519	56647	1702396951670835295	/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/Minecraft_autogen/mocs_compilation.cpp	72ab3da3a100c367
+56647	56793	1702396951834204160	.rcc/qrc_Resources.cpp	d03b4b8a91cdfcc1
+56647	56793	1702396951834204160	/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/.rcc/qrc_Resources.cpp	d03b4b8a91cdfcc1
+56795	57450	1702396952484076227	CMakeFiles/Minecraft.dir/src/camera.cpp.o	b164bd2c69846338
+56795	59086	1702396954116171588	CMakeFiles/Minecraft.dir/src/cube.cpp.o	2c55cd1932e092be
+56794	59890	1702396954918880928	CMakeFiles/Minecraft.dir/src/main.cpp.o	105b3da8d7e72f2d
+56794	59898	1702396954927107527	CMakeFiles/Minecraft.dir/src/mainwindow.cpp.o	8e0d91be1d8dca6a
+56793	59929	1702396954959225035	CMakeFiles/Minecraft.dir/Minecraft_autogen/mocs_compilation.cpp.o	5206064522e5df55
+56795	59939	1702396954974815954	CMakeFiles/Minecraft.dir/src/terraingenerator.cpp.o	716fa6ea3ec6a047
+56795	60728	1702396955766651288	CMakeFiles/Minecraft.dir/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/.rcc/qrc_Resources.cpp.o	a3fb030d8d3a91e8
+56794	60781	1702396955811268479	CMakeFiles/Minecraft.dir/src/glrenderer.cpp.o	ffd5a6e36916c14c
+60782	61180	1702396956192979662	Minecraft	c7e7ce794e835e81

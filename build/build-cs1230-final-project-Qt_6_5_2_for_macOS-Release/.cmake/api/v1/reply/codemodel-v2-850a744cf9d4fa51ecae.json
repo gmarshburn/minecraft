@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Minecraft",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Minecraft::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Minecraft-Release-f09eb888d180560ce228.json",
+					"name" : "Minecraft",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Minecraft_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Minecraft_autogen-Release-a728a73a56b8ec6a8d36.json",
+					"name" : "Minecraft_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Minecraft_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Minecraft_autogen_timestamp_deps-Release-794bca0041299fee947e.json",
+					"name" : "Minecraft_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Minecraft_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Minecraft_other_files-Release-4a74de8fd3f4e1cfd809.json",
+					"name" : "Minecraft_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticGLEW::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticGLEW-Release-7eed463ed7712dbf82fb.json",
+					"name" : "StaticGLEW",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticGLEW_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticGLEW_autogen-Release-0ad3b1070be6543391fc.json",
+					"name" : "StaticGLEW_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticGLEW_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticGLEW_autogen_timestamp_deps-Release-55cddb676879572b70a8.json",
+					"name" : "StaticGLEW_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release",
+		"source" : "/Users/gracemarshburn/Brown/cs1230/cs1230-final-project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,9 @@
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/Minecraft.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/Minecraft_other_files.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/StaticGLEW.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/Minecraft_autogen_timestamp_deps.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/Minecraft_autogen.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/StaticGLEW_autogen_timestamp_deps.dir
+/Users/gracemarshburn/Brown/cs1230/cs1230-final-project/build/build-cs1230-final-project-Qt_6_5_2_for_macOS-Release/CMakeFiles/StaticGLEW_autogen.dir
